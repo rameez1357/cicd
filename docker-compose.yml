@@ -1,6 +1,6 @@
 version : "3.3"
 services :
- web :
+ site :
   build : .
   ports :
       - "8010:8010"
